@@ -1,2 +1,2 @@
-# sql-vaccine
+# sql-cocktail
 SQL injection script in python
